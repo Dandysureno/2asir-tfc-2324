@@ -1,7 +1,7 @@
-# Proyectos Final de Ciclo de 2º DAW
+# Proyectos Final de Ciclo de 2º ASIR
 **curso 2023|24**
 
-En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Web del CPIFP Alan Turing** (proyectos de fin de ciclo), en la convocatoria del curso 2023|24.
+En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Administración de Sistemas Informáticos en Red del CPIFP Alan Turing** (proyectos de fin de ciclo), en la convocatoria del curso 2023|24.
 
 ## Requisitos y criterios a seguir
 
