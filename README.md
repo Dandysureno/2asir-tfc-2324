@@ -7,12 +7,21 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio](https://github.com/CPIFPAlanTuring/2asir-tfc-2324/wiki).
 
+## Profesores
+
+La siguiente lista cuenta con los usuarios de GitHub del profesorado:
+* [Alicia Vega Moreno](https://github.com/AVegMor)
+* [José Antonio Pérez Alías](https://github.com/joseantper)
+* [Sergio Banderas Moreno](https://github.com/sergiflags)
+* [Sergio Sánchez Martín](https://github.com/SergioSanchezMartin)
+* [José David Quero Sánchez](https://github.com/josedavid-quero)
+
 ## Índice a los proyectos de cada alumno
 
-`por determinar`
+* GRUPO 01: Moodle y alta disponibilidad - Javier Rodríguez Fernández
 
 ## 📝 Fechas a tener en cuenta
-* Anteproyecto: `por determinar`
+* Anteproyecto: 5 de abril de 2024
 * Revisión (checkpoint): `por determinar`
 * Entrega de proyecto: `por determinar`
 * Exposiciones: `por determinar`
