@@ -22,6 +22,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **GRUPO 02: Plataforma de gestion de centros docentos privados (Dokkaebi)** - Iván Cortés Robles y Julián Andrés Pérez Olaechea
 * **GRUPO 03: `pendiente`** - Amanda Benítez Hidalgo
 * **GRUPO 04: Servicio Virtualizacion Web (Leonardo)** - [Leandro Morales Aranda y Pablo Solano Colorado](https://plume-sundae-4ce.notion.site/ANTE-PROYECTO-ASIR-914f458ce785455998c3d45a94b53a94?pvs=4)
+* **GRUPO 05: `pendiente`** - Luis Miguel Miras Díaz y Rafael Jiménez Burgos
   
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: 5 de abril de 2024
