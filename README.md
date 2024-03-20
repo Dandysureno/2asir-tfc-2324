@@ -18,8 +18,10 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 
 ## Índice a los proyectos de cada alumno
 
-* GRUPO 01: Moodle y alta disponibilidad - Javier Rodríguez Fernández
-
+* ** GRUPO 01: Moodle y alta disponibilidad ** - Javier Rodríguez Fernández
+* ** GRUPO 02: `pendiente`** - Iván Cortés Robles y Julián Andrés Pérez Olaechea
+* ** GRUPO 03: `pendiente`** - Amanda Benítez Hidalgo
+ 
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: 5 de abril de 2024
 * Revisión (checkpoint): `por determinar`
