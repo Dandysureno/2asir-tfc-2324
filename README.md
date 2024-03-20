@@ -21,7 +21,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **GRUPO 01: Moodle y alta disponibilidad** - Javier Rodríguez Fernández
 * **GRUPO 02: `pendiente`** - Iván Cortés Robles y Julián Andrés Pérez Olaechea
 * **GRUPO 03: `pendiente`** - Amanda Benítez Hidalgo
- 
+* **GRUPO 04: Servicio Virtualizacion Web (Leonardo)** - [Leandro Morales Aranda y Pablo Solano Colorado](https://plume-sundae-4ce.notion.site/ANTE-PROYECTO-ASIR-914f458ce785455998c3d45a94b53a94?pvs=4)
+  
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: 5 de abril de 2024
 * Revisión (checkpoint): `por determinar`
