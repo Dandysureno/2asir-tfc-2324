@@ -23,6 +23,9 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **GRUPO 03: Procesamiento de datos IoT escalable** - Amanda Benítez Hidalgo
 * **GRUPO 04: Servicio Virtualizacion Web (Leonardo)** - [Leandro Morales Aranda y Pablo Solano Colorado](https://plume-sundae-4ce.notion.site/ANTE-PROYECTO-ASIR-914f458ce785455998c3d45a94b53a94?pvs=4)
 * **GRUPO 05: `pendiente`** - Luis Miguel Miras Díaz y Rafael Jiménez Burgos
+* **GRUPO 06: Conjunto ASIR** - Jesús Nicolás López Fernández
+* **GRUPO 07: 40 Arsipales** - Mikel Arias Montiel y Adrián Suárez Medina
+* **GRUPO 08: VirtualMox** - Jesús Manuel Arcos Martos y Pablo Téllez del Saz
   
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: 5 de abril de 2024
