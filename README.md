@@ -26,7 +26,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **GRUPO 06: Conjunto ASIR** - Jesús Nicolás López Fernández
 * **GRUPO 07: 40 Arsipales** - Mikel Arias Montiel y Adrián Suárez Medina
 * **GRUPO 08: VirtualMox** - Jesús Manuel Arcos Martos y Pablo Téllez del Saz
-* **GRUPO 09: `pendiente`** - Luis García Villena
+* **GRUPO 09: Plataforma Integral de Gestión de Proyectos (Innovation Pro)** - Luis García Villena
   
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: 5 de abril de 2024
