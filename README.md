@@ -19,6 +19,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 ## Índice a los proyectos de cada alumno
 
 * **GRUPO 01: Moodle y alta disponibilidad** - Javier Rodríguez Fernández
+    - Anteproyecto: https://www.notion.so/Ante-Proyecto-ASIR-b45b7122203447f18e4ab15dd2c912c3?pvs=4
 * **GRUPO 02: Plataforma de gestion de centros docentes privados (Dokkaebi)** - Iván Cortés Robles y Julián Andrés Pérez Olaechea
 * **GRUPO 03: Procesamiento de datos IoT escalable** - Amanda Benítez Hidalgo
 * **GRUPO 04: Servicio Virtualizacion Web (Leonardo)** - [Leandro Morales Aranda y Pablo Solano Colorado](https://plume-sundae-4ce.notion.site/ANTE-PROYECTO-ASIR-914f458ce785455998c3d45a94b53a94?pvs=4)
