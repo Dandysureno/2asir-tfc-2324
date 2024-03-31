@@ -26,6 +26,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **GRUPO 05: SledgeSecurity** - Luis Miguel Miras Díaz y Rafael Jiménez Burgos
 * **GRUPO 06: Conjunto ASIR** - Jesús Nicolás López Fernández
 * **GRUPO 07: 40 Arsipales** - Mikel Arias Montiel y Adrián Suárez Medina
+      - Anteproyecto: https://eastern-cardamom-704.notion.site/d060e451dff34360b78049b33f75a7a4?v=0a68095ac3884ad697580c149b8136a3
 * **GRUPO 08: VirtualMox** - Jesús Manuel Arcos Martos y Pablo Téllez del Saz
 * **GRUPO 09: Plataforma Integral de Gestión de Proyectos (Innovation Pro)** - Luis García Villena
   
