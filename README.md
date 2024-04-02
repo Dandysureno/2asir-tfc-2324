@@ -22,7 +22,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - Anteproyecto:  https://chlorinated-iris-663.notion.site/Ante-Proyecto-Moodle-ASIR-b45b7122203447f18e4ab15dd2c912c3?pvs=4
 * **GRUPO 02: Plataforma de gestion de centros docentes privados (Dokkaebi)** - Iván Cortés Robles y Julián Andrés Pérez Olaechea
 * **GRUPO 03: Procesamiento de datos IoT escalable** - Amanda Benítez Hidalgo
-      - Anteproyecto:  https://quiet-licorice-3d4.notion.site/Procesamiento-de-datos-IoT-escalable-8c371549b4c4459ba14a33738e7c1103?pvs=4 
+    - Anteproyecto:  https://quiet-licorice-3d4.notion.site/Procesamiento-de-datos-IoT-escalable-8c371549b4c4459ba14a33738e7c1103?pvs=4 
 * **GRUPO 04: Servicio Virtualizacion Web (Leonardo)** - [Leandro Morales Aranda y Pablo Solano Colorado](https://plume-sundae-4ce.notion.site/ANTE-PROYECTO-ASIR-914f458ce785455998c3d45a94b53a94?pvs=4)
 * **GRUPO 05: SledgeSecurity** - Luis Miguel Miras Díaz y Rafael Jiménez Burgos
 * **GRUPO 06: Conjunto ASIR** - Jesús Nicolás López Fernández -Anteproyecto: https://www.notion.so/Conjunto-ASIR-caec12c17a0b44fca4e1f98ab16b5b0f
