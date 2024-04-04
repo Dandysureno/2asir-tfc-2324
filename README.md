@@ -25,8 +25,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **GRUPO 03: Procesamiento de datos IoT escalable** - Amanda Benítez Hidalgo
     - Anteproyecto:  https://quiet-licorice-3d4.notion.site/Procesamiento-de-datos-IoT-escalable-8c371549b4c4459ba14a33738e7c1103?pvs=4 
 * **GRUPO 04: Servicio Virtualizacion Web (Leonardo)** - Leandro Morales Aranda y Pablo Solano Colorado
-*                 [AnteProyecto](https://www.notion.so/ANTE-PROYECTO-ASIR-Leonardo-914f458ce785455998c3d45a94b53a94?pvs=4)
-*                 [GitHub](https://github.com/Solanodecoin/TFG)
+* **                - [AnteProyecto](https://www.notion.so/ANTE-PROYECTO-ASIR-Leonardo-914f458ce785455998c3d45a94b53a94?pvs=4) **
+* **                - [GitHub](https://github.com/Solanodecoin/TFG) **
 * **GRUPO 05: SledgeSecurity** - Luis Miguel Miras Díaz y Rafael Jiménez Burgos
 * **GRUPO 06: Conjunto ASIR** - Jesús Nicolás López Fernández -Anteproyecto: [[https://www.notion.so/Conjunto-ASIR-caec12c17a0b44fca4e1f98ab16b5b0f](https://www.notion.so/Conjunto-ASIR-caec12c17a0b44fca4e1f98ab16b5b0f?pvs=4)](https://square-angora-a4e.notion.site/Conjunto-ASIR-caec12c17a0b44fca4e1f98ab16b5b0f?pvs=4)
 * **GRUPO 07: 40 Arsipales** - Mikel Arias Montiel y Adrián Suárez Medina
