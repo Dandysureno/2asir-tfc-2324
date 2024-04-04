@@ -25,7 +25,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **GRUPO 03: Procesamiento de datos IoT escalable** - Amanda Benítez Hidalgo
     - Anteproyecto:  https://quiet-licorice-3d4.notion.site/Procesamiento-de-datos-IoT-escalable-8c371549b4c4459ba14a33738e7c1103?pvs=4 
 * **GRUPO 04: Servicio Virtualizacion Web (Leonardo)** - Leandro Morales Aranda y Pablo Solano Colorado
-  [AnteProyecto]([https://www.notion.so/ANTE-PROYECTO-ASIR-Leonardo-914f458ce785455998c3d45a94b53a94?pvs=4](https://plume-sundae-4ce.notion.site/ANTE-PROYECTO-ASIR-Leonardo-914f458ce785455998c3d45a94b53a94?pvs=74)),
+  [AnteProyecto](https://plume-sundae-4ce.notion.site/ANTE-PROYECTO-ASIR-Leonardo-914f458ce785455998c3d45a94b53a94),
   [GitHub](https://github.com/Solanodecoin/TFG-Leonardo)
   
 * **GRUPO 05: SledgeSecurity** - Luis Miguel Miras Díaz y Rafael Jiménez Burgos
