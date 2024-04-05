@@ -35,6 +35,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **GRUPO 08: VirtualMox** - Jesús Manuel Arcos Martos y Pablo Téllez del Saz
   https://www.notion.so/Anteproyecto-VirtualMox-2ee74c28291a4ff5ba3b30127b8b4f49?pvs=4
 * **GRUPO 09: Plataforma Integral de Gestión de Proyectos (Innovation Pro)** - Luis García Villena
+      - Anteproyecto: https://ripple-order-4f8.notion.site/Anteproyecto-Innovation-Pro-a403276c3c9f4916a5c685f27755f857
   
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: 5 de abril de 2024
