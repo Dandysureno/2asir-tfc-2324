@@ -41,7 +41,7 @@ https://superficial-gladiolus-0fa.notion.site/Anteproyecto-VirtualMox-2ee74c2829
   
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: 5 de abril de 2024
-* Revisión (checkpoint): `por determinar`
+* Revisión (checkpoint): 10 de mayo de 2024
 * Entrega de proyecto: `por determinar`
 * Exposiciones: `por determinar`
 
