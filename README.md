@@ -40,8 +40,8 @@ https://superficial-gladiolus-0fa.notion.site/Anteproyecto-VirtualMox-2ee74c2829
       - Anteproyecto: https://ripple-order-4f8.notion.site/Anteproyecto-Innovation-Pro-a403276c3c9f4916a5c685f27755f857
   
 ## 📝 Fechas a tener en cuenta
-* Anteproyecto: 5 de abril de 2024
-* Revisión (checkpoint): 10 de mayo de 2024
+* Anteproyecto: **5 de abril de 2024**
+* Revisión (checkpoint): **10 de mayo de 2024**
 * Entrega de proyecto: `por determinar`
 * Exposiciones: `por determinar`
 
