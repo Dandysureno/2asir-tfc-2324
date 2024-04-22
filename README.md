@@ -21,7 +21,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **GRUPO 01: Moodle y alta disponibilidad** - Javier Rodríguez Fernández
     - Anteproyecto:  https://chlorinated-iris-663.notion.site/Ante-Proyecto-Moodle-ASIR-b45b7122203447f18e4ab15dd2c912c3?pvs=4
 * **GRUPO 02: Plataforma de gestion de centros docentes privados (Dokkaebi)** - Iván Cortés Robles y Julián Andrés Pérez Olaechea
-    - Anteproyecto: https://rattle-waxflower-daa.notion.site/Anteproyecto-Dokkaebi-3a5f1deb06ca4796ae4f923d508756cc
+    - Anteproyecto: https://rattle-waxflower-daa.notion.site/Anteproyecto-Dokkaebi-3a5f1deb06ca4796ae4f923d508756cc?pvs=4
 * **GRUPO 03: Procesamiento de datos IoT escalable** - Amanda Benítez Hidalgo
     - Anteproyecto:  https://quiet-licorice-3d4.notion.site/Procesamiento-de-datos-IoT-escalable-8c371549b4c4459ba14a33738e7c1103?pvs=4 
 * **GRUPO 04: Servicio Virtualizacion Web (Leonardo)** - Leandro Morales Aranda y Pablo Solano Colorado
