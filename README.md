@@ -33,7 +33,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - Anteproyecto: https://prairie-milk-41d.notion.site/Anteproyecto-Sledge-Security-1d8ee65046614554a04f462745c80449
 
 * **GRUPO 06: Conjunto ASIR** - Jesús Nicolás López Fernández -Anteproyecto: [[https://www.notion.so/Conjunto-ASIR-caec12c17a0b44fca4e1f98ab16b5b0f](https://www.notion.so/Conjunto-ASIR-caec12c17a0b44fca4e1f98ab16b5b0f?pvs=4)](https://square-angora-a4e.notion.site/Conjunto-ASIR-caec12c17a0b44fca4e1f98ab16b5b0f?pvs=4)
-* **GRUPO 07: 40 Arsipales** - Mikel Arias Montiel y Adrián Suárez Medina
+* **GRUPO 07: 40 Asirpales** - Mikel Arias Montiel y Adrián Suárez Medina
       - Anteproyecto: https://eastern-cardamom-704.notion.site/d060e451dff34360b78049b33f75a7a4?v=0a68095ac3884ad697580c149b8136a3
 * **GRUPO 08: VirtualMox** - Jesús Manuel Arcos Martos y Pablo Téllez del Saz
 https://superficial-gladiolus-0fa.notion.site/Anteproyecto-VirtualMox-2ee74c28291a4ff5ba3b30127b8b4f49?pvs=4
