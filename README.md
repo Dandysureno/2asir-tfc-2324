@@ -26,7 +26,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - Anteproyecto: https://rattle-waxflower-daa.notion.site/Anteproyecto-Dokkaebi-3a5f1deb06ca4796ae4f923d508756cc?pvs=4
 * **GRUPO 03: Procesamiento de datos IoT escalable** - Amanda Benítez Hidalgo
     - [Anteproyecto](https://quiet-licorice-3d4.notion.site/Procesamiento-de-datos-IoT-escalable-8c371549b4c4459ba14a33738e7c1103?pvs=4)
-    - [Repositorio del proyecto]([https://github.com/amandabz/Procesamiento-de-datos-IoT-escalable](https://github.com/amandabz/Procesamiento-de-datos-IoT-escalable.git))
+    - [Repositorio del proyecto](https://github.com/amandabz/Procesamiento-de-datos-IoT-escalable.git)
 * **GRUPO 04: Servicio Virtualizacion Web (Leonardo)** - Leandro Morales Aranda y Pablo Solano Colorado
   [AnteProyecto](https://plume-sundae-4ce.notion.site/ANTE-PROYECTO-ASIR-Leonardo-914f458ce785455998c3d45a94b53a94),
   [GitHub](https://github.com/Solanodecoin/TFG-Leonardo)
