@@ -23,9 +23,9 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Proyecto Moodle](https://github.com/Javviviii2/Moodle.git)
     - [Video Checkpoint](https://youtu.be/ipq2waYJp-c)  
 * **GRUPO 02: Plataforma de gestion de centros docentes privados (Dokkaebi)** - Iván Cortés Robles y Julián Andrés Pérez Olaechea
-    - [Anteproyecto] (https://rattle-waxflower-daa.notion.site/Anteproyecto-Dokkaebi-3a5f1deb06ca4796ae4f923d508756cc?pvs=4)
-    - [Vídeo Checkpoint] (https://youtu.be/BYf9T2UrZQw)
-    - [Dokkaebi] (https://github.com/ivancrms/Dokkaebi)
+    - [ Anteproyecto ] (https://rattle-waxflower-daa.notion.site/Anteproyecto-Dokkaebi-3a5f1deb06ca4796ae4f923d508756cc?pvs=4)
+    - [ Vídeo Checkpoint ] (https://youtu.be/BYf9T2UrZQw)
+    - [ Dokkaebi ] (https://github.com/ivancrms/Dokkaebi)
 * **GRUPO 03: Procesamiento de datos IoT escalable** - Amanda Benítez Hidalgo
     - [Anteproyecto](https://quiet-licorice-3d4.notion.site/Procesamiento-de-datos-IoT-escalable-8c371549b4c4459ba14a33738e7c1103?pvs=4)
     - [Repositorio del proyecto](https://github.com/amandabz/Procesamiento-de-datos-IoT-escalable.git)
