@@ -44,7 +44,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
       - [Anteproyecto](https://eastern-cardamom-704.notion.site/d060e451dff34360b78049b33f75a7a4?v=0a68095ac3884ad697580c149b8136a3)
       - [Video CheckPoint](https://youtu.be/A-Q4L9_P5ZQ)
 * **GRUPO 08: VirtualMox** - Jesús Manuel Arcos Martos y Pablo Téllez del Saz
-https://superficial-gladiolus-0fa.notion.site/Anteproyecto-VirtualMox-2ee74c28291a4ff5ba3b30127b8b4f49?pvs=4
+
+    - [Anteproyecto](https://superficial-gladiolus-0fa.notion.site/Anteproyecto-VirtualMox-2ee74c28291a4ff5ba3b30127b8b4f49?pvs=4)
+    - [Repositorio]
+    - [Video-Check]
+      
 * **GRUPO 09: Plataforma Integral de Gestión de Proyectos (Innovation Pro)** - Luis García Villena
       - Anteproyecto: https://ripple-order-4f8.notion.site/Anteproyecto-Innovation-Pro-a403276c3c9f4916a5c685f27755f857
   
